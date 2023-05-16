@@ -1,0 +1,2 @@
+# MyntraClone
+Clone of Myntra 
